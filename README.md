@@ -1,16 +1,60 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**XHiddenProjects/XHiddenProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I have spent 5 years on web development being self-tought as well. I usally make projects that are good tools for websites or make random projects based on the skills that I have.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experienced Languages/Usage of libraries
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Boostrap"  alt="Boostrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery"  alt="JQuery" width="40" height="40"/>&nbsp;
+</div>
+
+***
+
+### Still learning/beginning of learning
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+***
+
+### Projects
+- [WebPress](https://github.com/XHiddenProjects/WebPress)
+- [ImageViewer](https://github.com/XHiddenProjects/ImageViewer)
+- [Flatboard Plugins](https://github.com/XHiddenProjects/Flatboard-Plugins) - [Flatboard](https://flatboard.org)
+- [SSQL](https://github.com/XHiddenProjects/SSQL)
+- [PPDB](https://github.com/XHiddenProjects/PPDB)
+- [AdvancedModeration - PocketMine plugin](https://github.com/XHiddenProjects/AdvancedModeration)
+- [SurveyBuilder](https://github.com/XHiddenProjects/surveybuilder)
+
+***
+
+### Pulled/Modified projects
+- [WebCrew/CMS-Code-Editor](https://github.com/WebCrew/CMS-Code-Editor)
+
+***
+
+### Certifications
+**Certified company name and the actual title will be listed soon!**
+- Microsoft Office Specialist - Associate
+- Microsoft 2019 Excel, Outlook, Word, Excel advanced
+- HTML
+- CSS
+- HTML+CSS
+- JavaScript
+- SQL
+
+***
+
+### Status
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=XHiddenProjects&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XHiddenProjects&langs_count=5&theme=tokyonight)]()
