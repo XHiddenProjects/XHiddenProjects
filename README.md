@@ -1,11 +1,9 @@
-# Hi there 👋
-
-### About me
+# About me
 I have spent 5 years on web development being self-tought as well. I usally make projects that are good tools for websites or make random projects based on the skills that I have.
 
 ***
 
-### Experienced Languages/Usage of libraries
+# Experienced Languages/Usage of libraries
 <div>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href="https://html.com/html5/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
@@ -18,7 +16,7 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 ***
 
-### Still learning/beginning of learning
+# Still learning/beginning of learning
 <div>
    <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/></a>&nbsp;
 <a href="https://www.cisa.gov/" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vlrtraining.in%2Fwp-content%2Fuploads%2F2020%2F10%2Flogo-cyber-security.png&f=1&nofb=1&ipt=41ce8af4d3099e7e82542049533b2d2dd51daa8e8d8d507f0034875999d5568a&ipo=images" title="Cybersecurity"  alt="Cybersecurity" width="60" height="60"/></a>&nbsp;
@@ -26,7 +24,7 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 ***
 
-### Projects
+# Projects
 - [WebPress](https://github.com/XHiddenProjects/WebPress)
 - [ImageViewer](https://github.com/XHiddenProjects/ImageViewer)
 - [Flatboard Plugins](https://github.com/XHiddenProjects/Flatboard-Plugins) - [Flatboard](https://flatboard.org)
@@ -37,13 +35,13 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 ***
 
-### Pulled/Modified projects
+# Pulled/Modified projects
 - [WebCrew/CMS-Code-Editor](https://github.com/WebCrew/CMS-Code-Editor)
 - [Thinura660/Thinu-CMS](https://github.com/Thinura660/Thinu-CMS)
 
 ***
 
-### Certifications
+# Certifications
 **Certified company name and the actual title will be listed soon!**
 - Microsoft Office Specialist - Associate
 - Microsoft 2019 Excel, Outlook, Word, Excel advanced
@@ -55,7 +53,7 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 ***
 
-### Status
+# Status
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=XHiddenProjects&theme=tokyonight&showicons=true)]()
 
