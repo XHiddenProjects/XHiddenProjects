@@ -42,14 +42,17 @@ I have spent 5 years on web development being self-tought as well. I usally make
 ***
 
 # Certifications
-**Certified company name and the actual title will be listed soon!**
+- IC3 Digital Literacy Master Certification
 - Microsoft Office Specialist - Associate
-- Microsoft 2019 Excel, Outlook, Word, Excel advanced
-- HTML
-- CSS
-- HTML+CSS
-- JavaScript
-- SQL
+- IT specialist in HTML and CSS
+- IT specialist in HTML5
+- HTML5 Application Development
+- IT specialist in JavaScript
+- CarrerSafe Interview Skills
+- CarrerSafe CyberSecurity Essentials
+- Certificate of BPA membership
+- IT specialist - Database
+- Microsoft Office Specialist - Excel 2019 Expert
 
 ***
 
