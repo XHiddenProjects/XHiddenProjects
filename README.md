@@ -16,15 +16,6 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 ***
 
-# Still learning/beginning of learning
-<div>
-   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Python" width="40" height="40"/></a>&nbsp;
-<a href="https://www.cisa.gov/" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vlrtraining.in%2Fwp-content%2Fuploads%2F2020%2F10%2Flogo-cyber-security.png&f=1&nofb=1&ipt=41ce8af4d3099e7e82542049533b2d2dd51daa8e8d8d507f0034875999d5568a&ipo=images" title="Cybersecurity"  alt="Cybersecurity" width="60" height="60"/></a>&nbsp;
-</div>
-
-***
-
 # Projects
 - [WebPress](https://github.com/XHiddenProjects/WebPress)
 - [ImageViewer](https://github.com/XHiddenProjects/ImageViewer)
