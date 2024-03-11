@@ -12,6 +12,10 @@ I have spent 5 years on web development being self-tought as well. I usally make
   <a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Boostrap"  alt="Boostrap" width="40" height="40"/></a>&nbsp;
   <a href="https://jquery.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery"  alt="JQuery" width="40" height="40"/></a>&nbsp;
+  <a href="https://yaml.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.json.org/json-en.html"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.markdownguide.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.w3.org/XML/"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="40" height="40"/></a>&nbsp;
 </div>
 
 ***
