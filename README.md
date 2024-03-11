@@ -37,21 +37,6 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 ***
 
-# Certifications
-- IC3 Digital Literacy Master Certification
-- Microsoft Office Specialist - Associate
-- IT specialist in HTML and CSS
-- IT specialist in HTML5
-- HTML5 Application Development
-- IT specialist in JavaScript
-- CarrerSafe Interview Skills
-- CarrerSafe CyberSecurity Essentials
-- Certificate of BPA membership
-- IT specialist - Database
-- Microsoft Office Specialist - Excel 2019 Expert
-
-***
-
 # Status
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=XHiddenProjects&theme=tokyonight&showicons=true)]()
