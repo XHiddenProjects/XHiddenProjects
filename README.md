@@ -43,4 +43,4 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=XHiddenProjects&theme=blue_navy&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XHiddenProjects&langs_count=4&theme=blue_navy)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XHiddenProjects&langs_count=6&theme=blue_navy)]()
