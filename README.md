@@ -23,6 +23,7 @@ I have spent 5 years on web development being self-tought as well. I usally make
 ***
 
 # Projects
+- [WebServerAI](https://github.com/XHiddenProjects/WebServerAI)
 - [WebPress](https://github.com/XHiddenProjects/WebPress)
 - [MMV - Multi-Media Viewer](https://github.com/XHiddenProjects/mmv)
 - [Flatboard Plugins](https://github.com/XHiddenProjects/Flatboard-Plugins) - [Flatboard](https://flatboard.org)
