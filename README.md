@@ -37,6 +37,7 @@ I have spent 5 years on web development being self-tought as well. I usally make
 # Pulled/Modified projects
 - [WebCrew/CMS-Code-Editor](https://github.com/WebCrew/CMS-Code-Editor)
 - [Thinura660/Thinu-CMS](https://github.com/Thinura660/Thinu-CMS)
+- [DhruvalAnandkar/LeetCodePythonPals](https://github.com/DhruvalAnandkar/LeetCodePythonPals)
 
 ***
 
