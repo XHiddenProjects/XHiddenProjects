@@ -44,6 +44,6 @@ I have spent 5 years on web development being self-tought as well. I usally make
 
 # Status
 
-[![![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XHiddenProjects&custom_title=XHiddenProjects%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)]](#)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XHiddenProjects&custom_title=XHiddenProjects%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)](#)
 
-[![![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=XHiddenProjects&langs_count=5&theme=transparent)](#)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=transparent)](#)
