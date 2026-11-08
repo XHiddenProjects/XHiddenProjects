@@ -88,103 +88,149 @@ My work focuses on creating useful tools for websites, developers, administrator
 ## Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 [VExtraStudio](https://github.com/XHiddenProjects/VExtraStudio)
-
-A desktop development workspace for creating websites and 2D or 3D games.
-
-VExtraStudio combines a code editor, live web preview, visual UI designer, game editor, asset-creation tools, plugins, themes, collaboration features, and project exporting in one application.
-
-**Technologies and focus**
-
-`Tauri` `JavaScript` `Web Development` `Game Development`
-
-<br>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XHiddenProjects/VExtraStudio)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [WebServerAI](https://github.com/XHiddenProjects/WebServerAI)
-
-An experimental AI-assisted web-development project designed to help users create, manage, and customize websites with less manual work.
-
-The project combines web-development tools with AI-assisted functionality to simplify common development workflows.
-
-**Technologies and focus**
-
-`Artificial Intelligence` `Web Development` `Developer Tools`
-
-<br>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XHiddenProjects/WebServerAI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📰 [WebPress](https://github.com/XHiddenProjects/WebPress)
-
-An open-source content-management and forum system with support for customizable themes, plugins, content blocks, user rolesthe-badge&logo=github&logoColor=white](https://github.com/XHiddenProjects/WebPress)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ [SSQL](https://github.com/XHiddenProjects/SSQL)
-
-A PHP library designed to simplify common database operations such as creating, selecting, updating, filtering, and removing SQL records.
-
-**Technologies and focus**
-
-`PHP` `MySQL` `Database Abstraction` `Backend Development`
-
-<br>
-
-https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/XHiddenProjects/SSQL)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [CSVJS](https://github.com/XHiddenProjects/CSVJS)
-
-A lightweight JavaScript library for reading, processing, and working with comma-separated value data in web applications.
-
-**Technologies and focus**
-
-`JavaScript` `CSV Processing` `Data Utilities`
-
-<br>
-
-https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/XHiddenProjects/CSVJS)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎞️ [MMV](https://github.com/XHiddenProjects/mmv)
-
-A multi-media viewer created to provide a convenient interface for viewing and interacting with different types of media.
-
-**Technologies and focus**
-
-`Web Development` `Media Tools` `User Interface`
-
-<br>
-
-https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/XHiddenProjects/mmv)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/XHiddenProjects/VExtraStudio">VExtraStudio</a></h3>
+      <p>
+        A desktop development workspace for creating websites and 2D or 3D games.
+      </p>
+      <p>
+        VExtraStudio combines a code editor, live web preview, visual UI designer,
+        game editor, asset-creation tools, plugins, themes, collaboration features,
+        and project exporting in one application.
+      </p>
+      <p><strong>Technologies and focus</strong></p>
+      <p>
+        <code>Tauri</code>
+        <code>JavaScript</code>
+        <code>Web Development</code>
+        <code>Game Development</code>
+      </p>
+      <br>
+      <a href="https://github.com/XHiddenProjects/VExtraStudio">
+        <img
+          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+          alt="View VExtraStudio repository"
+        >
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/XHiddenProjects/WebServerAI">WebServerAI</a></h3>
+      <p>
+        An experimental AI-assisted web-development project designed to help
+        users create, manage, and customize websites with less manual work.
+      </p>
+      <p>
+        The project combines web-development tools with AI-assisted functionality
+        to simplify common development workflows.
+      </p>
+      <p><strong>Technologies and focus</strong></p>
+      <p>
+        <code>Artificial Intelligence</code>
+        <code>Web Development</code>
+        <code>Developer Tools</code>
+      </p>
+      <br>
+      <a href="https://github.com/XHiddenProjects/WebServerAI">
+        <img
+          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+          alt="View WebServerAI repository"
+        >
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 <a href="https://github.com/XHiddenProjects/WebPress">WebPress</a></h3>
+      <p>
+        An open-source content-management and forum system with support for
+        customizable themes, plugins, content blocks, user roles, editors,
+        and administrative tools.
+      </p>
+      <p><strong>Technologies and focus</strong></p>
+      <p>
+        <code>PHP</code>
+        <code>MySQL</code>
+        <code>CMS Development</code>
+        <code>Plugin Architecture</code>
+      </p>
+      <br>
+      <a href="https://github.com/XHiddenProjects/WebPress">
+        <img
+          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+          alt="View WebPress repository"
+        >
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ <a href="https://github.com/XHiddenProjects/SSQL">SSQL</a></h3>
+      <p>
+        A PHP library designed to simplify common database operations such as
+        creating, selecting, updating, filtering, and removing SQL records.
+      </p>
+      <p><strong>Technologies and focus</strong></p>
+      <p>
+        <code>PHP</code>
+        <code>MySQL</code>
+        <code>Database Abstraction</code>
+        <code>Backend Development</code>
+      </p>
+      <br>
+      <a href="https://github.com/XHiddenProjects/SSQL">
+        <img
+          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+          alt="View SSQL repository"
+        >
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/XHiddenProjects/CSVJS">CSVJS</a></h3>
+      <p>
+        A lightweight JavaScript library for reading, processing, and working
+        with comma-separated value data in web applications.
+      </p>
+      <p><strong>Technologies and focus</strong></p>
+      <p>
+        <code>JavaScript</code>
+        <code>CSV Processing</code>
+        <code>Data Utilities</code>
+      </p>
+      <br>
+      <a href="https://github.com/XHiddenProjects/CSVJS">
+        <img
+          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+          alt="View CSVJS repository"
+        >
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎞️ <a href="https://github.com/XHiddenProjects/mmv">MMV</a></h3>
+      <p>
+        A multimedia viewer that provides a convenient interface for viewing
+        and interacting with different types of media.
+      </p>
+      <p><strong>Technologies and focus</strong></p>
+      <p>
+        <code>Web Development</code>
+        <code>Media Tools</code>
+        <code>User Interface</code>
+      </p>
+      <br>
+      <a href="https://github.com/XHiddenProjects/mmv">
+        <img
+          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+          alt="View MMV repository"
+        >
+      </a>
+    </td>
+  </tr>
 </table>
 
-> Some featured projects represent earlier stages of my development journey. They remain available as examples of my experience, experimentation, and continued growth.
+> Some featured projects represent earlier stages of my development journey.
+> They remain available as examples of my experience, experimentation, and
+> continued growth.
 
 ---
 
