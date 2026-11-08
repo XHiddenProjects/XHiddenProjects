@@ -205,26 +205,7 @@ My work focuses on creating useful tools for websites, developers, administrator
         >
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎞️ <a href="https://github.com/XHiddenProjects/mmv">MMV</a></h3>
-      <p>
-        A multimedia viewer that provides a convenient interface for viewing
-        and interacting with different types of media.
-      </p>
-      <p><strong>Technologies and focus</strong></p>
-      <p>
-        <code>Web Development</code>
-        <code>Media Tools</code>
-        <code>User Interface</code>
-      </p>
-      <br>
-      <a href="https://github.com/XHiddenProjects/mmv">
-        <img
-          src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-          alt="View MMV repository"
-        >
-      </a>
-    </td>
+  
   </tr>
 </table>
 
